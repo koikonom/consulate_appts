@@ -31,4 +31,5 @@ category_map = {
 ```
 
 Issue 1: If you message yourself then you don't get notified, I had to create a separate twitter acct just for this thing.
+
 Issue 2: You must follow the twitter acct that sends the DMs otherwise this will not work
